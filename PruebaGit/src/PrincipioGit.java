@@ -6,7 +6,8 @@ public class PrincipioGit {
 
 		
 		System.out.println("hola mundo");
-		
+		System.out.println("adios ");
+		int a=5
 		
 	}
 
