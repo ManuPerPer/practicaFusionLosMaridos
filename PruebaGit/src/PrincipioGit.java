@@ -9,6 +9,8 @@ public class PrincipioGit {
 		System.out.println("adios ");
 		int a=5;
 		
+		String saludo="buenas tardes";
+		
 	}
 
 }
