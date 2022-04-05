@@ -1,8 +1,4 @@
 
-
-
-
-
 public class Mascota {
 	private String nombre;
 

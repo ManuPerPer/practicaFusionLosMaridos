@@ -15,7 +15,7 @@ public class Gato extends Mascota {
 
 	@Override
 	public String toString() {
-		return "Soy un gato, me llamo " + getNombre() + ", y hago miau";
+		return "Soy un gato, me llamo " + getNombre() + ", y hago grrrrrrrrr";
 	}
 	
 	
