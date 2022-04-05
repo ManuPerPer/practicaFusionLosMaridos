@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"PrincipioGit","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"PrincipioGit","l":"PrincipioGit()","u":"%3Cinit%3E()"}];updateSearchResults();
