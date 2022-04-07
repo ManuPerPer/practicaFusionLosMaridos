@@ -1,8 +1,4 @@
 
-
-
-
-
 public class Mascota {
 	private String nombre;
 
@@ -21,6 +17,8 @@ public class Mascota {
 
 	public void MandarMensaje() {
 		System.out.println("Soy " + this.nombre + " y te voy a contar algo o no");
+		
+		
 	}
 
 }
