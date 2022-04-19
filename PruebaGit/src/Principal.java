@@ -4,6 +4,7 @@ public class Principal {
 	public static void main(String[] args) {
 		
 		Lobo elpedazodelobo=new Lobo("Jesus");
+		elpedazodelobo.setPelaje("negro y largo");
 		
 
 		System.out.println(elpedazodelobo);

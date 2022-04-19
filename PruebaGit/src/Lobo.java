@@ -1,6 +1,15 @@
 
 public class Lobo extends Mascota{
-	private String pelaje= "Gris";
+	private String pelaje;
+	
+	public String getPelaje() {
+		return pelaje;
+	}
+
+	public void setPelaje(String pelaje) {
+		this.pelaje = pelaje;
+	}
+
 	public Lobo(String nombre) {
 		super(nombre);
 		
