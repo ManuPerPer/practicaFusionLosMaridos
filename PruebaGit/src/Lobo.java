@@ -23,7 +23,7 @@ public class Lobo extends Mascota{
 
 	@Override
 	public String toString() {
-		return "Soy un lobo y me llamo " + getNombre() + ", y hago AUUUUUUUUUUUUU! y tengo el pelo de color" + pelaje;
+		return "Soy un lobo y me llamo " + getNombre() + ", y hago AUUUUUUUUUUUU! y tengo el pelo de color" + pelaje;
 	}
 
 	
